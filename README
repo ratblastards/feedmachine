@@ -1,0 +1,3 @@
+For deployment set up a virtual environment with pyenv
+
+The start script start_feedmachine.sh which is used by the service definition feedmachine.service will start the virtual environment.
